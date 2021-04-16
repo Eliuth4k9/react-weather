@@ -31,5 +31,4 @@ THEN I am presented with the last searched city forecast
 ```
 
 ## Project Examples
-`
 <img src="./public/waetherbg.jpg">
