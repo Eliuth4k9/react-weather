@@ -47,7 +47,7 @@ function DisplayWeather(props) {
                     <h4>UV</h4>
                   </td>
                   <td>
-                    <span>{data.value} %</span>
+                    <span>{2}</span>
                   </td>
                 </tr>
                 <tr>
