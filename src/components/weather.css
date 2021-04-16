@@ -1,0 +1,63 @@
+.weather {
+    margin-top: 20px;
+    border: 3px solid #89c5e7;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    width: max-content;
+    padding: 0px 20px 20px 20px;
+    margin-left: 25%;
+  }
+  .weather .title {
+    font-size: 4rem;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #89c5e7,
+    1px 2px 1px #89c5e7,
+    1px 3px 1px #89c5e7,
+    1px 4px 1px #89c5e7,
+    1px 5px 1px #89c5e7,
+    1px 6px 1px #89c5e7,
+    1px 7px 1px #89c5e7,
+    1px 8px 1px #89c5e7,
+    1px 9px 1px #89c5e7,
+    1px 10px 1px #89c5e7,
+    1px 18px 6px rgba(202, 176, 176, 0.4),
+    1px 22px 10px rgba(202, 176, 176, 0.4),
+    1px 25px 35px rgba(202, 176, 176, 0.4),
+    1px 30px 60px rgba(202, 176, 176, 0.4);
+    font-family: "Times New Roman", Times, serif;
+  }
+  .weather form {
+    margin-top: 30px;
+  }
+  .weather form input {
+    padding: 10px;
+    border: none;
+    border-bottom: 3px solid #89c5e7;
+    margin-right: 10px;
+  }
+  
+  .weather form input:focus {
+    outline: none;
+    border-bottom: 3px solid #89c5e7;
+  }
+  
+  .weather .getweather {
+    margin-left: 10px;
+    padding: 8px;
+    font-size: 1.3rem;
+    border: none;
+    border-radius: 20px;
+    border: 2px solid rgb(138, 135, 135);
+    background: #89c5e7;
+    cursor: pointer;
+    color: whitesmoke;
+  }
+  
+  .weather .getweather:hover {
+    background: transparent;
+    color: #89c5e7;
+  }
+  
+  .weather .getweather:focus {
+    outline: none;
+  }
