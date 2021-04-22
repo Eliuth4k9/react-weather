@@ -8,11 +8,11 @@ function Bg(){
       params={{
         particles: {
           color: {
-            value: "#FF69B4"
+            value: "#89c5e7"
           },
           line_linked: {
             color: {
-              value: "#FF69B4"
+              value: "#89c5e7"
             }
           },
           number: {
