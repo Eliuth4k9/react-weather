@@ -29,6 +29,9 @@ THEN I am again presented with current and future conditions for that city
 WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
 ```
+## Future add-ons
+
+I will add the function to have a 5-day forecast display.
 
 ## Project Examples
 <img src="./public/weatherbg.jpg">
